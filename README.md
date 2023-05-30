@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @北方張
 - 👀 I’m interested in java
-- 🌱 I’m currently learning java
 - 📫 zm244046625@163.com
 
 <!---
